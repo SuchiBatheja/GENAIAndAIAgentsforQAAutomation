@@ -13,6 +13,27 @@ Types of Prompts
 3. Chain-of-thought prompting
 4. Iterative Prompting
 
+LLM Security and Data Privacy
+1) Hosting Enterprise LLMs on comoany servers
+2) Implementing API Gateway Controls
+3) Use Offline LLMs
+
+
+What is a token?
+A Token is a chunk of text that LLM processes- a word, part of a word, or even punctuation.
+
+AI breaks your prompt into tokens.
+
+Very Important Note:
+Technical Skills + Prompt Engineering Skills = Less Usage of Tokens + Best Answer
+
+
+
+
+
+
+
+
 
 
 
