@@ -1,0 +1,23 @@
+GitHubCopilotAI Capabilities
+
+
+PlayWright with TypeScript framework
+
+1. Search for Method in the code
+2. Optimize code 
+3. Fix Errors
+4. Convert your code class into Manual Test Cases
+5. Write API code for any GET/Post call.
+6. Do Bulk Edits in multiple Files.
+
+
+Selenium with Java Framework
+1. Create new files(Page Objects, Tests)
+2. Generate Selenium Action Methods with Accurate locators.
+3. Understand Project Hierarchy and establish connections across multiple files.
+4. Identify and fix Errors in Project Files.
+5. Add necessary comments.
+6. Convert Automation code into plain english test cases.
+7. Optimize test code based on PR Comments
+8. Generate Step Definition implementation from Cucumber Feature Files.
+
