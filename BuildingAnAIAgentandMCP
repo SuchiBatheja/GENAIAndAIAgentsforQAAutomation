@@ -1,0 +1,18 @@
+MCP(Modal Context Protocol)
+
+We acan automate web browsers with the help of MCP Servers.
+
+AI Agent = LLM + MCP Server
+
+LLMs(Claude, Chatgpt, gemini)
+
+Built an AI Agent with the help of MCP Servers that can transform plain english instruction into powerful business flow test automation.
+An LLM can not directly automate your browser or make REST calls or talk to your file systems.
+
+to Make LLM give answer, you need MCP server connection with them, and that will proivide the answer.
+
+MCP Client(Cluade, gemini) --> MCP Server --> Database, file, Browser, anything.
+
+
+
+
